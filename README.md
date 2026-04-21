@@ -1,11 +1,6 @@
 # Pocket roulette
-
-<img width="1200" height="400" alt="banner" src="https://github.com/user-attachments/assets/692689c9-fc3a-41e5-9a7d-2ace0a327a40" />
-
 A small roulette/dice/rng.
-
-<img width="1099" height="925" alt="image" src="https://github.com/user-attachments/assets/9ec1b995-85cc-4043-b459-94f3236f6d07" />
-
+<img width="1200" height="400" alt="banner" src="https://github.com/user-attachments/assets/692689c9-fc3a-41e5-9a7d-2ace0a327a40" />
 
 It consists of a 555 that ticks very fast and triggers a 4017 which then triggers the leds one after another, once you let go of the button the 555 stops and the leds stop at wherever they're now. You might be able to time it to land in an area, but I'd be surprised if it was possible to consistently land on the same spot.
 
