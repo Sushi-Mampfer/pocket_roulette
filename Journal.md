@@ -8,3 +8,9 @@ After that I had some problem with aligning the leds to look good, but using an 
 
 
 **Time spend: 3h**
+
+# Reviews
+I cut the circle, so that the USB port is on the edge and moved the values out of the components. I also added the github repo on the back.
+After that I reuploaded all files and made a .step file for Fusion, since the push button didn't get exported I made my own model in Fusion and added it. Then I put it into a banner with Gimp.
+
+**Time spend: 0h**
