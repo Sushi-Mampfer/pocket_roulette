@@ -9,8 +9,14 @@ After that I had some problem with aligning the leds to look good, but using an 
 
 **Time spend: 3h**
 
-# Reviews
+# Review
 I cut the circle, so that the USB port is on the edge and moved the values out of the components. I also added the github repo on the back.
 After that I reuploaded all files and made a .step file for Fusion, since the push button didn't get exported I made my own model in Fusion and added it. Then I put it into a banner with Gimp.
 
 **Time spend: 0h**
+
+# Review 2
+I removed the resistor for each LED and added a common one. While wiring I learned about vias, which I already love and they stopped me from having to put wires that go all around the board.
+After that I redid the render and instead of making my own pushbutton(I didn't save it), I used [this](https://cults3d.com/de/modell-3d/verschiedene/push-botton-2) design.
+
+**Time spend: 30min**
